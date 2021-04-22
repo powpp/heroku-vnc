@@ -31,7 +31,6 @@ RUN set -ex; \
 	unzip \
         ssh \
 	ffmpeg \
-	obs-studio \
 	chromium-browser \
 	firefox \
         terminator \
