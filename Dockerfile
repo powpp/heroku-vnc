@@ -11,6 +11,7 @@ RUN set -ex; \
         dbus-x11 \
         nautilus \
         gedit \
+        obs-studio \
         expect \
         sudo \
         vim \
