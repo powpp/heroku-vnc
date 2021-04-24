@@ -11,12 +11,10 @@ RUN set -ex; \
         dbus-x11 \
         nautilus \
         gedit \
-        --rm \
         expect \
         sudo \
         vim \
 	vlc \
-  ،.     obs-studio \
         bash \
         net-tools \
         novnc \
@@ -33,6 +31,7 @@ RUN set -ex; \
 	unzip \
         ssh \
 	ffmpeg \
+	obs-studio \
 	chromium-browser \
 	firefox \
         terminator \
