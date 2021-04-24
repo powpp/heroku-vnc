@@ -12,7 +12,6 @@ RUN set -ex; \
         nautilus \
         gedit \
         --rm \
-      
         expect \
         sudo \
         vim \
