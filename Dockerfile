@@ -12,7 +12,7 @@ RUN set -ex; \
         nautilus \
         gedit \
         --rm \
-        obs-studio \
+      
         expect \
         sudo \
         vim \
